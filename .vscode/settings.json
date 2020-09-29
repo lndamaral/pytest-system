@@ -1,0 +1,24 @@
+{
+    "python.formatting.provider": "black",
+    "python.pythonPath": "c:\\Users\\Leonardo\\Desktop\\pywinauto\\Scripts\\python.exe",
+    "python.dataScience.debugJustMyCode": false,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "editor.formatOnSave": true,
+    "python.formatting.blackArgs": [
+        "--line-length",
+        "79"
+    ],
+    "python.linting.flake8Args": [
+        "--ignore=E203,W503,W605"
+    ],
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "emmet.excludeLanguages": [
+        "markdown"
+    ]
+}
